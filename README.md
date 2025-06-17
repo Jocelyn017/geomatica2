@@ -1,8 +1,8 @@
 # Geomática
 
-**Nombre y Apellido**: Jocelyn - Auris
+**Nombre y Apellido**: Jocelyn Auris
 
-**Fecha de creación**: 20250616
+**Fecha de creación**: 2025/06/16
 
 # Cartografía
 
